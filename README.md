@@ -5,7 +5,7 @@ If you want to know me better, take a look at my portfolio: <br/>
 👉[click to visit](https://AmandaCHawinska.github.io/portfolio/)
 <br/>
 ### My stack tech:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,react,redux,php,wordpress,git,github,xd,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,alpinejs,react,redux,php,wordpress,git,github,xd,figma,vscode)](https://skillicons.dev)
 <br/>
 ### Contact me
 <a href="https://www.linkedin.com/in/amanda-chawińska-frontend-developer/"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
